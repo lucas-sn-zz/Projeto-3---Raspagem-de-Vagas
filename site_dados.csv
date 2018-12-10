@@ -1,15 +1,359 @@
 ,vaga,empresa,cidade,link
-13,Auxiliar de Operações,KPMG,"Taquarivaí, SP",https://www.indeed.com.br/cmp/KPMG/jobs/Auxiliar-Opera%C3%A7%C3%B5es-a8cb0bd9fe0cc5c9?sjdu=Zzi_VW2ygsY1fzh3Ma9ZsE4zIT1NTXCwgFBhdjeTC3MzqTZm0DMcalQoIM0L7Gw9_maqLifPvsen4oBBKlQGlw&vjs=3
-12,Analista Financeiro,ICOBIT IMPERMEABILIZANTES LTDA,"São Paulo, SP",https://www.indeed.com.br/cmp/ICOBIT-IMPERMEABILIZANTES-LTDA/jobs/Analista-Financeiro-e9d80225810df4df?sjdu=QwrRXKrqZ3CNX5W-O9jEvW21guO1sIF_6B0yTE8K9FsQt2n5hKk-IgqjxExy5HBoYZo9ZsyYjlb9ep2Xq_v8vgCRhe0p55ZN3_ty5KeZDnw&vjs=3
-11,Analista Financeiro,Confidencial Serviços LTDA,"São Paulo, SP",https://www.indeed.com.br/cmp/Confidencial-Servi%C3%A7os-LTDA/jobs/Analista-Financeiro-57d32b0ef111a688?sjdu=QwrRXKrqZ3CNX5W-O9jEvW21guO1sIF_6B0yTE8K9FsQt2n5hKk-IgqjxExy5HBocjdHr-4OZpa1Kggjn4K5Muz0zeSTdp_UDdj5syYlXWw&vjs=3
-10,Estagiário Financeiro,Hora da Despedida,"São Paulo, SP",https://www.indeed.com.br/cmp/Hora-da-Despedida/jobs/Estagi%C3%A1rio-Financeiro-002c2a35d4465384?sjdu=QwrRXKrqZ3CNX5W-O9jEveKQVK3UvlMjsxdtrgX92pawsVjdhhkqizbHhAMY7XMBIgUbkF_ha0jmsvIo-IHp-vy-yaYFcCvC5Jfxxd0z14g&vjs=3
-9,Supervisor de Loja - Franca,Movida,"Franca, SP",https://www.indeed.com.br/rc/clk?jk=e4cbe490df66a116&from=vj&pos=top&spon=1
-8,Auxiliar de Operações,KPMG,"Taquarivaí, SP",https://www.indeed.com.br/cmp/KPMG/jobs/Auxiliar-Opera%C3%A7%C3%B5es-a8cb0bd9fe0cc5c9?vjs=3
-7,Caixa,Alluri Sports,"Zona Norte de São Paulo, SP",https://www.indeed.com.br/cmp/ALLURI---UNIFORMES/jobs/Caixa-38d4214dc063412d?vjs=3
-6,Caixa - Itaú Agências,Itaú Unibanco,"Monte Azul Paulista, SP",https://www.indeed.com.br/cmp/Ita%C3%BA-Unibanco/jobs/Caixa-09a151c64e225ff5?vjs=3
-5,CAIXA,Recruta Mais,"Bauru, SP",https://www.indeed.com.br/rc/clk?jk=1e671e3b614ac6d2&from=vj&pos=top
-4,Financeiro - Caixa,Assess Casa Móveis e Decorações,"Santa Cruz do Rio Pardo, SP",https://www.indeed.com.br/cmp/Assess-Casa-Ourinhos/jobs/Financeiro-401d00c743a8c111?vjs=3
-3,Operador de Caixa,TALCHÁ,"São Paulo, SP",https://www.indeed.com.br/cmp/Talch%C3%A1/jobs/Operador-Caixa-c65ac5b0f7ae2ac2?vjs=3
-2,AUXILIAR ADMINISTRATIVO,Recruta Mais,"Campinas, SP",https://www.indeed.com.br/rc/clk?jk=44871c879f927184&from=vj&pos=top
-1,Caixa - Batatais SP,Sicredi,"Batatais, SP",https://www.indeed.com.br/rc/clk?jk=6327a3a8d958271c&from=vj&pos=top
-0,Atendente de Loja,Varejo Farmacêutico,"Barueri, SP",https://www.indeed.com.br/cmp/Varejo-Farmac%C3%AAutico/jobs/Atendente-Loja-03f482d31b1d242c?vjs=3
+226,Assessor de Investimentos - AAI / CPA,"XP Investimentos
+61 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/cmp/XP-Investimentos/jobs/Assessor-Investimentos-2ea43e92fc2345d7?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+225,ASSESSOR DE INVESTIMENTOS JÚNIOR,"Petrópolis, RJ",,https://www.indeed.com.br/rc/clk?jk=392b5be12baeff82&from=vj&pos=top
+224,Trader (Especialista em Renda Fixa & Multimercado),"Mongeral
+2 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=2c494f0506246852&from=vj&pos=top
+223,Analista de risco - 1 vaga (Rio de Janeiro/RJ) = 20013,Seleção Profissional,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=dd3fc9509d9320c7&from=vj&pos=top
+222,Analista de Processos Operacionais Júnior,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=501635bb01682cc5&from=vj&pos=top
+221,Analista de Investimentos,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=cedeea50dbf1bc73&from=vj&pos=top
+220,Gerente - Due Diligence Tributária - Indiretos,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=2a3f5d5ef285ca55&from=vj&pos=top
+219,Consultor - Due Diligence Financeira e Contábil,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=852ada085afbe023&from=vj&pos=top
+218,Consultor Senior de Transaçöes Corporativas,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=6f5731e4c96d2e72&from=vj&pos=top
+217,Advogado Júnior P.I/T.I,"Robert Half
+7,019 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=a46b89de4410c5c8&from=vj&pos=top
+216,Assessor de Investimentos - AAI / CPA,"XP Investimentos
+61 avaliações","Bauru, SP",https://www.indeed.com.br/cmp/XP-Investimentos/jobs/Assessor-Investimentos-f14133153cf5bc91?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+215,Head of Finance,"Talenses
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=fcb06140e06caf69&from=vj&pos=top&spon=1
+214,Estágio em Direito,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=363042e337ef8ecc&from=vj&pos=top&spon=1
+213,Assessor de Investimentos - AAI / CPA,Agentes Autônomos - XP Investimentos,"Santana de Parnaíba, SP",https://www.indeed.com.br/cmp/Agentes-Aut%C3%B4nomos---XP-Investimentos/jobs/Assessor-Investimentos-745e4d9c65f06fc8?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+212,Analista de Tesouraria,"Bild
+6 avaliações","Ribeirão Preto, SP",https://www.indeed.com.br/rc/clk?jk=8c33a2a009014148&from=vj&pos=top
+211,Estagiario (Seasonal Paid Intern),"Citi
+14,805 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=7b142f323e28b178&from=vj&pos=top
+210,Assessor de Investimentos,Ventura Tec,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=66dce32c9d90ec01&from=vj&pos=top
+209,Analista de Operações Júnior,"BNP Paribas
+2,594 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=d099ddb2bf628d7c&from=vj&pos=top
+208,Especialista de Investimento,Easynvest,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=a0b0132dbe645664&from=vj&pos=top
+207,Analista de Rentabilidade,"GuiaBolso
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=7ebd955597866c76&from=vj&pos=top
+206,Analista de Performance Digital,Tienda Nube | Nuvem Shop,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=07ca41970dd1acc0&from=vj&pos=top
+205,Analista de Investimentos Sênior,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=c5bededdc7db1461&from=vj&pos=top
+204,ESTAGIÁRIO(A) DE MODELAGEM FINANCEIRA,"Loggi
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=54bfceb7b2324363&from=vj&pos=top
+203,Assessor de Investimentos - AAI / CPA,"XP Investimentos
+61 avaliações","São José do Rio Preto, SP",https://www.indeed.com.br/cmp/XP-Investimentos/jobs/Assessor-Investimentos-fb95ac3ff024421f?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+202,Assessor de Investimentos - AAI / CPA,Agentes Autônomos - XP Investimentos,"Santana de Parnaíba, SP",https://www.indeed.com.br/cmp/Agentes-Aut%C3%B4nomos---XP-Investimentos/jobs/Assessor-Investimentos-745e4d9c65f06fc8?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+201,Assessor de Investimentos,Ventura Tec,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=66dce32c9d90ec01&from=vj&pos=top
+200,Gerente de Produtos,XP,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=405dc9d8eb194b3f&from=vj&pos=top
+199,Analista de Desenvolvimento Sênior,XP,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=94f775026ee1eff0&from=vj&pos=top
+198,Analista de Desenvolvimento Sênior,"Rico
+22 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=cee7d4a127e62c00&from=vj&pos=top
+197,Coordenador de Marketing,XP,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=8b1303caaf3bd040&from=vj&pos=top
+196,Analista de Infraestrutura Sênior,XP,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=5250838b14e67f24&from=vj&pos=top
+195,Analista de Infraestrutura Pleno,XP,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=c65593bfce6a622d&from=vj&pos=top
+194,Analista de Banco de Dados Pleno,XP,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=c731197e82b2e30e&from=vj&pos=top
+193,Assessor de Investimentos - AAI / CPA,"XP Investimentos
+61 avaliações","Campinas, SP",https://www.indeed.com.br/cmp/XP-Investimentos/jobs/Assessor-Investimentos-023ede07a76d33ef?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+192,Regional Asset Reliability Leader,"Cabot Corporation
+86 avaliações","Mauá, SP",https://www.indeed.com.br/rc/clk?jk=f9e953dd8ff2f2e0&from=vj&pos=top&spon=1
+191,Data Analytics Specialist,"Takeda Pharmaceutical
+565 avaliações","Jaguariúna, SP",https://www.indeed.com.br/rc/clk?jk=a07ddf17359a9c57&from=vj&pos=top&spon=1
+190,Sales Manager - Financial Intermediaries,"Franklin Templeton Investments
+541 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=20634f49cf75a892&from=vj&pos=top&spon=1
+189,Security Lead,"Uber
+471 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=43d44fd259f57bea&from=vj&pos=top&spon=1
+188,Supply Chain Consultant,OM Partners,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=ea130829067c2ff6&from=vj&pos=top&spon=1
+187,Estágio - Asset Management,"BNP Paribas
+2,594 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=8795ae67c15c0b68&from=vj&pos=top
+186,Regional Asset Reliability Leader,"Cabot Corporation
+86 avaliações","Mauá, SP",https://www.indeed.com.br/rc/clk?jk=f9e953dd8ff2f2e0&from=vj&pos=top
+185,Finance Director Brazil,"Eurofins
+702 avaliações","Indaiatuba, SP",https://www.indeed.com.br/rc/clk?jk=c76638b84ab4d470&from=vj&pos=top
+184,Head of BXD (Brand Experience Design Team),"Lenovo
+866 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=519925b5ee3a3ff0&from=vj&pos=top
+183,"Director, Corporate Finance","FTI Consulting, Inc.
+155 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=a0d3c3866fef8e40&from=vj&pos=top
+182,Finance Coordinator,Agfa-Gevaert NV,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=35d2ab757fea8c08&from=vj&pos=top
+181,Head of Business Development,Lightsource Renewable Energy,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=eeb30b1317cb2d11&from=vj&pos=top
+180,Junior Investment Advisor - Farmer,Magnetis,"Pinheiros, SP",https://www.indeed.com.br/rc/clk?jk=9a20864517aba74c&from=vj&pos=top
+179,Estagiário Asset Management,Start Up Consultoria em Recursos Humanos Ltda,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=0d6d7c9e1378dced&from=vj&pos=top
+178,"Oil & Gas Upstream Specialist, Petroleum Asset eXcellence (PAX)","McKinsey & Company
+420 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=cc017c61d520b3d3&from=vj&pos=top
+177,Trader (Especialista em Renda Fixa & Multimercado),"Mongeral
+2 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=2c494f0506246852&from=vj&pos=top
+176,"Regional Medical Expert, Infectious Diseases","GlaxoSmithKline
+3,436 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=c4931158b05344d4&from=vj&pos=top
+175,Study Management Engineer SR,"Aker Solutions
+646 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=96d84d3a1d2087cb&from=vj&pos=top
+174,Principal Deal Manager,Intelsat,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=ef69f24fb9ed5a03&from=vj&pos=top
+173,Contract Coordinator,"Aker Solutions
+646 avaliações","Rio das Ostras, RJ",https://www.indeed.com.br/rc/clk?jk=78dda8d9664fcd59&from=vj&pos=top
+172,AIFA - SENIOR MANAGER,ENGIE BRASIL PARTICIPAÇÕES,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=a2134284424e7cc4&from=vj&pos=top
+171,Analista de risco - 1 vaga (Rio de Janeiro/RJ) = 20013,Seleção Profissional,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=dd3fc9509d9320c7&from=vj&pos=top
+170,Technical Project Manager - Rio,DALET,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=a312de69da2b9d45&from=vj&pos=top
+169,Real Estate Advisory Senior Associate,WeWork,"Itaim Bibi, SP",https://www.indeed.com.br/rc/clk?jk=39d3e9456cdb384a&from=vj&pos=top&spon=1
+168,L20193 Jr. Market Intelligence Analyst,"Epson America, Inc
+71 avaliações","Barueri, SP",https://www.indeed.com.br/rc/clk?jk=737941fde50a2e8f&from=vj&pos=top
+167,Brazilian Power Market Analyst,"BP
+2,562 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=744fb98df94ad292&from=vj&pos=top
+166,Business Analyst,Wirecard Brasil,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=ae5496be0302a7d6&from=vj&pos=top
+165,Network Support Analyst (Voice).,"Atos
+1,898 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=850dbe2d22c4a78c&from=vj&pos=top
+164,Country Compliance Analyst,"Bank of America
+25,844 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=2d69e7d93abf9e19&from=vj&pos=top
+163,Client Services Analyst,"DSM Nutritional Products
+172 avaliações","Avenida Brigadeiro Faria Lima, SP",https://www.indeed.com.br/rc/clk?jk=9f48eef28da60a76&from=vj&pos=top
+162,Distribution Analyst I,"Boston Scientific Corporation
+1,033 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=06db87ef5b28e3b1&from=vj&pos=top
+161,Analyst,Cubico Sustainable Investments,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=3c5c4a3a55893132&from=vj&pos=top
+160,Marketing Analyst,Perrigo Company,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=0cca4a45eb0beda7&from=vj&pos=top
+159,AIFA - SENIOR MANAGER,ENGIE BRASIL PARTICIPAÇÕES,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=a2134284424e7cc4&from=vj&pos=top
+158,"Regional Market Intelligence, Associate","Uber
+471 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=87c1808e3384c0ea&from=vj&pos=top&spon=1
+157,Chief Investment Officer,"HAYS
+628 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=c269a4df0628f848&from=vj&pos=top&spon=1
+156,International Summer Job - Investment Banking,"Citi
+14,805 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=6115d5710b8cee93&from=vj&pos=top
+155,Investment Banking - Vacation Internship,"Bank of America
+25,844 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=907bddf2cfc21b4c&from=vj&pos=top
+154,Investment Banking Internship (Brazil),"Bank of America
+25,844 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=429f9486b1524561&from=vj&pos=top
+153,Business and Investment Associate,"The Nature Conservancy
+127 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=2184847589c86286&from=vj&pos=top
+152,Global Commercial Banking,"Bank of America
+25,844 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=de04ec442b99569b&from=vj&pos=top
+151,"Securities, Equities, Securitized Derivatives Strategists - Analyst/Associate/VP Sao Paulo","Goldman Sachs
+1,257 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=233342fd840267dc&from=vj&pos=top
+150,"Regional Market Intelligence, Associate","Uber
+471 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=87c1808e3384c0ea&from=vj&pos=top
+149,Senior Risk Specialist,"UBS
+1,701 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=8f8cf1aa5f381cae&from=vj&pos=top
+148,Strategy & Growth Operations Lead,WeWork,"Bela Vista, SP",https://www.indeed.com.br/rc/clk?jk=e8b6f896875448c2&from=vj&pos=top
+147,Trader (Especialista em Renda Fixa & Multimercado),"Mongeral
+2 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=2c494f0506246852&from=vj&pos=top
+146,ASSESSOR DE INVESTIMENTOS JÚNIOR,"Petrópolis, RJ",,https://www.indeed.com.br/rc/clk?jk=392b5be12baeff82&from=vj&pos=top
+145,Analista de Investimentos,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=cedeea50dbf1bc73&from=vj&pos=top
+144,Analista Sênior de Relação com Investidores,PetroRio,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=acfd1a5345cc3ff1&from=vj&pos=top
+143,Estagiário Investimento,Previdência,"Rio de Janeiro, RJ",https://www.indeed.com.br/cmp/Previd%C3%AAncia/jobs/Estagi%C3%A1rio-Investimento-094d23fd2cfb67a7?vjs=3
+142,Assessor de Investimentos - AAI / CPA,"XP investimentos
+61 avaliações","Petrópolis, RJ",https://www.indeed.com.br/cmp/XP-Investimentos/jobs/Assessor-Investimentos-075fc5446b2559d9?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+141,ASSESSOR DE INVESTIMENTOS JÚNIOR,"Petrópolis, RJ",,https://www.indeed.com.br/rc/clk?jk=392b5be12baeff82&from=vj&pos=top
+140,Analista de Investimentos,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=cedeea50dbf1bc73&from=vj&pos=top
+139,Trader (Especialista em Renda Fixa & Multimercado),"Mongeral
+2 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=2c494f0506246852&from=vj&pos=top
+138,Analista de Investimentos Pleno,"Michael Page
+174 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=f6cb0168b20f8157&from=vj&pos=top
+137,Consultor Senior de Transaçöes Corporativas,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=6f5731e4c96d2e72&from=vj&pos=top
+136,Analista de Processos Operacionais Júnior,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=501635bb01682cc5&from=vj&pos=top
+135,Gerente - Due Diligence Tributária - Indiretos,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=2a3f5d5ef285ca55&from=vj&pos=top
+134,Analista de risco - 1 vaga (Rio de Janeiro/RJ) = 20013,Seleção Profissional,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=dd3fc9509d9320c7&from=vj&pos=top
+133,Consultor Senior- Due Diligence - Impostos Trabalhistas e Previdenciários,Ernst & Young OM,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=cab4a8ed3214d46b&from=vj&pos=top
+132,Assessor de Investimentos - AAI / CPA,"XP Investimentos
+61 avaliações","São Gonçalo, RJ",https://www.indeed.com.br/cmp/XP-Investimentos/jobs/Assessor-Investimentos-f2a2c2313a38c193?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+131,ASSESSOR DE INVESTIMENTOS JÚNIOR,"Petrópolis, RJ",,https://www.indeed.com.br/rc/clk?jk=392b5be12baeff82&from=vj&pos=top
+130,Analista de Investimentos,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=cedeea50dbf1bc73&from=vj&pos=top
+129,Analista de Investimentos Pleno,"Michael Page
+174 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=f6cb0168b20f8157&from=vj&pos=top
+128,Trader (Especialista em Renda Fixa & Multimercado),"Mongeral
+2 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=2c494f0506246852&from=vj&pos=top
+127,Analista de Processos Operacionais Júnior,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=501635bb01682cc5&from=vj&pos=top
+126,Consultor Senior de Transaçöes Corporativas,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=6f5731e4c96d2e72&from=vj&pos=top
+125,Gerente - Due Diligence Tributária - Indiretos,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=2a3f5d5ef285ca55&from=vj&pos=top
+124,Analista de risco - 1 vaga (Rio de Janeiro/RJ) = 20013,Seleção Profissional,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=dd3fc9509d9320c7&from=vj&pos=top
+123,Consultor Senior- Due Diligence - Impostos Trabalhistas e Previdenciários,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=cab4a8ed3214d46b&from=vj&pos=top
+122,ESPECIALISTA FINANCEIRO - RELAÇÕES COM INVESTIDORES,"Oi
+1,686 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=7c34ac2a669948c9&from=vj&pos=top&spon=1
+121,Gerente de Trading,"HAYS
+628 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=0c3df77615110321&from=vj&pos=top&spon=1
+120,Engenheiro Eletricista,Seleção Engenharia,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=3dfa4291ce4a0c17&from=vj&pos=top&spon=1
+119,Consultor Sênior - Compras Estratégicas - Supply Chain,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=6b72f83fd2613c00&from=vj&pos=top
+118,Cientista de Dados Advanced Analytics,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=7056cfee800ae9e9&from=vj&pos=top
+117,Analista de Compliance - Instituição do Mercado Financeiro,"Michael Page
+174 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=00e8438271a25953&from=vj&pos=top
+116,Consultor Senior de Transaçöes Corporativas,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=6f5731e4c96d2e72&from=vj&pos=top
+115,Supervisor Sell Out - SP Capital,"L'Oréal
+2,046 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=f1a7cc8bfa75a9e2&from=vj&pos=top
+114,Gerente de Operações,"ABB
+3,131 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=ff11a14fefed78fb&from=vj&pos=top
+113,Supervisor Sell Out - SP Capital,"L'Oreal USA
+902 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=c036cf7716807e61&from=vj&pos=top
+112,SUPERVISOR DE HIGIENE – RIO DE JANEIRO/ RJ,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=c5f36197b52b7452&from=vj&pos=top
+111,Analista Sênior de Relação com Investidores,PetroRio,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=acfd1a5345cc3ff1&from=vj&pos=top
+110,AIFA - ADVISORY ANALYST,ENGIE BRASIL PARTICIPAÇÕES,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=cda054c5d67de327&from=vj&pos=top
+109,"Senior Research Analyst, Power and Renewables","Wood Mackenzie
+31 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=f84c5cef82843814&from=vj&pos=top
+108,Analista de Investimentos Pleno,"Michael Page
+174 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=f6cb0168b20f8157&from=vj&pos=top
+107,Analista de Investimentos,"Michael Page
+174 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=e5a4a790fa323fe9&from=vj&pos=top
+106,Analista de M&A (Gás e Energia),PetroRio,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=8c1c0b63618f7049&from=vj&pos=top
+105,AIFA - SENIOR MANAGER,ENGIE BRASIL PARTICIPAÇÕES,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=a2134284424e7cc4&from=vj&pos=top
+104,Consultor,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=23789bafb21bee0f&from=vj&pos=top
+103,Support Analyst,Carta,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=877e41cc323abd29&from=vj&pos=top
+102,AIFA - ADVISORY ANALYST,ENGIE BRASIL PARTICIPAÇÕES,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=cda054c5d67de327&from=vj&pos=top
+101,Executivo de Território,"Philip Morris International
+1,066 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=274b8e89d5af1d37&from=vj&pos=top
+100,Corporate Security Manager,"British American Tobacco
+1,464 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=5016d35f933b21da&from=vj&pos=top
+99,Consultor Sênior - Compras Estratégicas - Supply Chain,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=6b72f83fd2613c00&from=vj&pos=top
+98,Engenheiro Elétrico Botafogo,"Rio de Janeiro, RJ",,https://www.indeed.com.br/rc/clk?jk=aadc0a50b9977793&from=vj&pos=top
+97,Gerente de Seção,"Decathlon
+3,121 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=c848bdec710280f8&from=vj&pos=top
+96,Gerente - Due Diligence Tributária - Indiretos,"Ernst & Young OM
+5,751 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=2a3f5d5ef285ca55&from=vj&pos=top
+95,Gerente de Operações,"ABB
+3,131 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=ff11a14fefed78fb&from=vj&pos=top
+94,ESPECIALISTA EM RELACIONAMENTO DIGITAL,"Oi
+1,686 avaliações","Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=00af623370c44471&from=vj&pos=top
+93,Analista de risco - 1 vaga (Rio de Janeiro/RJ) = 20013,Seleção Profissional,"Rio de Janeiro, RJ",https://www.indeed.com.br/rc/clk?jk=dd3fc9509d9320c7&from=vj&pos=top
+92,Gerente de Operações (Inteligência Operacional e Mudanças),"UnitedHealth Group
+14,071 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=4fdbb28b2f71601d&from=vj&pos=top&spon=1
+91,Analista de Risco PL,"HAYS
+628 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=21d23dff154e0317&from=vj&pos=top&spon=1
+90,Consultor de Analytics,"HAYS
+628 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=f02a41bb2ccc055a&from=vj&pos=top&spon=1
+89,Gerente de Investigação Forensic,"HAYS
+628 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=ba179a4e7f2fe3da&from=vj&pos=top&spon=1
+88,Analista Jurídico Pleno (Trabalhista),"HAYS
+628 avaliações","Campinas, SP",https://www.indeed.com.br/rc/clk?jk=b9b215d94373952c&from=vj&pos=top&spon=1
+87,Analista Ambiental Pleno / Senior / Environmental Analyst,"Takeda Pharmaceutical
+565 avaliações","Jaguariúna, SP",https://www.indeed.com.br/rc/clk?jk=32ad87d0b6300c30&from=vj&pos=top&spon=1
+86,Assistente de Gerenciamento de Risco,BUICK LOGÍSTICA,"Itu, SP",https://www.indeed.com.br/cmp/BUICK-LOG%C3%8DSTICA/jobs/Assistente-Gerenciamento-Risco-9589ebdb84368900?vjs=3
+85,Consultor - Supply Chain,"Ernst & Young OM
+5,751 avaliações","Campinas, SP",https://www.indeed.com.br/rc/clk?jk=868d2b061fe13309&from=vj&pos=top
+84,Gerente de Controladoria,O EMPREGADOR,"Bragança Paulista, SP",https://www.indeed.com.br/cmp/O-EMPREGADOR/jobs/Gerente-Controladoria-b5358a03db861151?vjs=3
+83,Especialista de Risco de Crédito,Engenha,"Indaiatuba, SP",https://www.indeed.com.br/rc/clk?jk=9d4572def8568cae&from=vj&pos=top
+82,Especialista de Compliance,"Thermo Fisher Scientific
+2,117 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=c8211bd88e95df75&from=vj&pos=top
+81,Financeiro - Analista ADS (CDD MAUA),"Cervejaria Ambev
+15 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=ad80dff43c7e2bb9&from=vj&pos=top
+80,Consultor Sênior - Supply Chain,"Ernst & Young OM
+5,751 avaliações","Campinas, SP",https://www.indeed.com.br/rc/clk?jk=cfe3d6ea1c497a49&from=vj&pos=top
+79,Analista de Risco Jr,HUB FINTECH,"Barueri, SP",https://www.indeed.com.br/cmp/Hub-Fintech-Gest%C3%A3o-de-Sistemas-Ltda./jobs/Analista-Risco-Junior-249290e580e8e80d?vjs=3
+78,TI_Especialista_Jaguariuna,"Cervejaria Ambev
+15 avaliações","Jaguariúna, SP",https://www.indeed.com.br/rc/clk?jk=718a68c569fd11d3&from=vj&pos=top
+77,Analista de Operações Júnior,"BNP Paribas
+2,594 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=d099ddb2bf628d7c&from=vj&pos=top
+76,Especialista em Liquidação e Custódia - Mercado de...,C6 Bank,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=741302e737042577&from=vj&pos=top
+75,Especialista em Processos de Pós-Negociação (Merca...,C6 Bank,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=f37abf1499cae154&from=vj&pos=top
+74,Analista de Investimentos Sênior,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=c5bededdc7db1461&from=vj&pos=top
+73,ANALISTA DE IMPLANTAÇÃO,"Matera Systems
+4 avaliações","São Paulo, SP",https://www.indeed.com.br/ver-emprego?jk=49855a175240e0e7&from=serp&vjs=3
+72,Programa Conti com Agente - Andrea Lattuf (Contabilidade),"Continental
+2,064 avaliações","Várzea Paulista, SP",https://www.indeed.com.br/rc/clk?jk=5890ec7298c70728&from=vj&pos=top
+71,CONSULTOR DE NEGÓCIOS,"Matera Systems
+4 avaliações","São Paulo, SP",https://www.indeed.com.br/ver-emprego?jk=eaf5d01b5807cce9&from=serp&vjs=3
+70,ANALISTA DE NEGÓCIOS JR - Renda Fixa,"Senior Solution
+13 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=4d73950f7777feb8&from=vj&pos=top
+69,Analista de Implantação,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=798870b9e9a8adf5&from=vj&pos=top
+68,Assessor de Investimentos - AAI / CPA,"XP Investimentos
+61 avaliações","Mogi das Cruzes, SP",https://www.indeed.com.br/cmp/XP-Investimentos/jobs/Assessor-Investimentos-32f297bab5eb4efc?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+67,Head of Finance,"Talenses
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=fcb06140e06caf69&from=vj&pos=top&spon=1
+66,Estágio em Direito,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=363042e337ef8ecc&from=vj&pos=top&spon=1
+65,Assessor de Investimentos - AAI / CPA,Agentes Autônomos - XP Investimentos,"Santana de Parnaíba, SP",https://www.indeed.com.br/cmp/Agentes-Aut%C3%B4nomos---XP-Investimentos/jobs/Assessor-Investimentos-745e4d9c65f06fc8?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+64,Analista de Operações Júnior,"BNP Paribas
+2,594 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=d099ddb2bf628d7c&from=vj&pos=top
+63,Analista de Tesouraria,"Bild
+6 avaliações","Ribeirão Preto, SP",https://www.indeed.com.br/rc/clk?jk=8c33a2a009014148&from=vj&pos=top
+62,Analista de Investimentos Sênior,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=c5bededdc7db1461&from=vj&pos=top
+61,Assessor de Investimentos,Ventura Tec,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=66dce32c9d90ec01&from=vj&pos=top
+60,Gerente Due Diligence Trabalhista e Previdenciária,"EY
+5,751 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=d66a41c48785d62c&from=vj&pos=top
+59,Analista de Rentabilidade,"GuiaBolso
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=7ebd955597866c76&from=vj&pos=top
+58,Customer Success Analyst,Tienda Nube | Nuvem Shop,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=e425668da0b0ae2b&from=vj&pos=top
+57,Analista de Performance Digital,Tienda Nube | Nuvem Shop,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=07ca41970dd1acc0&from=vj&pos=top
+56,Consultor Sênior Analytics,Ernst & Young OM,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=de5177068f720be0&from=vj&pos=top
+55,Assessor de Investimentos - AAI / CPA,"XP investimentos
+61 avaliações","São Paulo, SP",https://www.indeed.com.br/cmp/XP-Investimentos/jobs/Assessor-Investimentos-0bb676e9aa083359?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+54,Head of Finance,"Talenses
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=fcb06140e06caf69&from=vj&pos=top&spon=1
+53,Estágio em Direito,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=df63bb33525bd12e&from=vj&pos=top&spon=1
+52,Assessor de Investimentos - AAI / CPA,Agentes Autônomos - XP Investimentos,"Santana de Parnaíba, SP",https://www.indeed.com.br/cmp/Agentes-Aut%C3%B4nomos---XP-Investimentos/jobs/Assessor-Investimentos-745e4d9c65f06fc8?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+51,Analista de Operações Júnior,"BNP Paribas
+2,594 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=d099ddb2bf628d7c&from=vj&pos=top
+50,Analista de Tesouraria,"Bild
+6 avaliações","Ribeirão Preto, SP",https://www.indeed.com.br/rc/clk?jk=8c33a2a009014148&from=vj&pos=top
+49,Assessor de Investimentos,Ventura Tec,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=66dce32c9d90ec01&from=vj&pos=top
+48,Analista de Investimentos Sênior,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=c5bededdc7db1461&from=vj&pos=top
+47,Analista de Rentabilidade,"GuiaBolso
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=7ebd955597866c76&from=vj&pos=top
+46,Gerente Due Diligence Trabalhista e Previdenciária,"EY
+5,751 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=d66a41c48785d62c&from=vj&pos=top
+45,Estagiario (Seasonal Paid Intern),"Citi
+14,805 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=7b142f323e28b178&from=vj&pos=top
+44,Head of Finance,"Talenses
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=fcb06140e06caf69&from=vj&pos=top
+43,Customer Success Analyst,Tienda Nube | Nuvem Shop,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=e425668da0b0ae2b&from=vj&pos=top
+42,Supervisor de Loja - Franca,"Movida
+11 avaliações","Franca, SP",https://www.indeed.com.br/rc/clk?jk=e4cbe490df66a116&from=vj&pos=top&spon=1
+41,Representantes Comerciais de Cosméticos Autônomos c/ Experiência,Distribuidora Apolo de Cosmeticos,"São Paulo, SP",https://www.indeed.com.br/cmp/Distribuidora-Apolo-de-Cosmeticos/jobs/Representantes-Comerciais-Cosm%C3%A9ticos-Aut%C3%B4nomos-C-f1304aec73b58eaa?sjdu=QwrRXKrqZ3CNX5W-O9jEvdsMlLvOkWG_G4c17v3c27ixRVqUCdQx4JZ9jOKcLqHTbuF0DEeutVgYi6uFDL5AQ3eihUpU9jfumuD_Atw9h_QWjJIVFPZReNTaqcC2uMTeclHNHtL1Z-RAqtJS18PQO-zmhshCqCyWoVDNFnReWY8&vjs=3
+40,Agile Master,Ventura Tec,"São Paulo, SP",https://www.indeed.com.br/cmp/Ventura-Tec/jobs/Agile-Master-f633a127404928c7?sjdu=QwrRXKrqZ3CNX5W-O9jEvc_aC2IlPu0iEN3OkBTnkzgo8e2aLTjUtlnKiNVM5DKzHbcLzOLE-NGglH3Wc4LLfA&vjs=3
+39,Gerente Regional de Desenvolvimento Comercial,"Talenses
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=a49d0547860210de&from=vj&pos=top&spon=1
+38,"Desenvolvedor Front End (Jr, Pl e Sr)",Ventura Tec,"São Paulo, SP",https://www.indeed.com.br/cmp/Ventura-Tec/jobs/Desenvolvedor-Front-End-83a0cb6b21307ef5?sjdu=QwrRXKrqZ3CNX5W-O9jEvQ3e2QkuoRwOjBLu09RK-kRnziG2xQ_yvLhuH_emxEvj6Hl2NY0B_Ht-a2re6ohSVaDBrJKMQmHAlHFG6L51M1Q0Nm_SJd9fWSAsMFSKnXIb&vjs=3
+37,Consultor de Desenvolvimento de Negócio Sênior,"Talenses
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=dc0689a3f2b04ca8&from=vj&pos=top&spon=1
+36,ANALISTA DE FORMALIZAÇÃO PLENO,Banco Fibra - Recrutamento Externo,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=3184738dc31573a6&from=vj&pos=top
+35,ANALISTA INTELIGENCIA DE MERCADO I,Banco Fibra - Recrutamento Externo,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=f187f1146c8ec500&from=vj&pos=top
+34,Advogado Junior - Mercado de Capitais,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=4943e046abb84900&from=vj&pos=top
+33,Estágio em Direito - Mercado de Capitais,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=73412b8a0f78723d&from=vj&pos=top
+32,Advogado - Bancário/Mercado de Capitais,Laurence Simons,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=c5c14287d23b6bfb&from=vj&pos=top
+31,Analista de Atração e Seleção PL/SR,Wirecard Brasil,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=ab42eacadd7da729&from=vj&pos=top
+30,Analista Administrativo Pleno,"Ernst & Young OM
+5,751 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=c75d8ddd9be1c020&from=vj&pos=top
+29,Trainee Consultor,"São Paulo, SP",,https://www.indeed.com.br/rc/clk?jk=b29abd12dc65545b&from=vj&pos=top
+28,Consultor Júnior de Gestão de Projetos,"Ernst & Young OM
+5,751 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=4068b3173e9c66b9&from=vj&pos=top
+27,Analista de MA,"HAYS
+628 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=df73e4c6a4d927a1&from=vj&pos=top&spon=1
+26,Gerente - Valuation - Real Estate,"Ernst & Young OM
+5,751 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=bb510c542d2f9a75&from=vj&pos=top
+25,Finance Coordinator,Agfa-Gevaert NV,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=35d2ab757fea8c08&from=vj&pos=top
+24,Consultor Sênior - Business Modeling,"Ernst & Young OM
+5,751 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=7c71f4d90eab00f3&from=vj&pos=top
+23,"Director, Corporate Finance","FTI Consulting, Inc.
+155 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=a0d3c3866fef8e40&from=vj&pos=top
+22,Consultor Sênior Analytics,"Ernst & Young OM
+5,751 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=de5177068f720be0&from=vj&pos=top
+21,Consultor - Business Modeling,"Ernst & Young OM
+5,751 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=fde88bd345b0091d&from=vj&pos=top
+20,Especialista Avaliações Econômicas,ENEL ENERGIA SPA,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=8a3fd1e1bd0c7750&from=vj&pos=top
+19,Analista de Rentabilidade,"GuiaBolso
+2 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=7ebd955597866c76&from=vj&pos=top
+18,Finanças,Mori Energia Solar,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=5f2f13da7a8c62ba&from=vj&pos=top
+17,Assessor de Investimentos - AAI / CPA,"XP Investimentos
+61 avaliações","Campinas, SP",https://www.indeed.com.br/cmp/XP-Investimentos/jobs/Assessor-Investimentos-023ede07a76d33ef?sjdu=6WON_Rrw_LsSY83QuQyX-UwZivYNNTaxmrfik93moGw_Zsqh86_FqJutaIiFMgRYXtnG9rlKofJymr5lhYSpWg&vjs=3
+16,Operations Specialist 1,"IQVIA
+152 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=667ab243f6816a10&from=vj&pos=top
+15,Analista de Wealth Management /Asset Allocation,"Robert Half
+7,019 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=654cefcb464914ea&from=vj&pos=top
+14,Business Operations Manager,"Welch Allyn
+140 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=be3e74d8e0edaf7b&from=vj&pos=top
+13,Scrum Master Senior,"Cognizant
+10,618 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=2ef37f25536bdc1e&from=vj&pos=top
+12,Analista de Negócios em TI Sênior,Connekt,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=d66c6d826b66ba8c&from=vj&pos=top&spon=1
+11,Agile Master,Ventura Tec,"São Paulo, SP",https://www.indeed.com.br/cmp/Ventura-Tec/jobs/Agile-Master-f633a127404928c7?sjdu=QwrRXKrqZ3CNX5W-O9jEvc_aC2IlPu0iEN3OkBTnkzgo8e2aLTjUtlnKiNVM5DKzHbcLzOLE-NGglH3Wc4LLfA&vjs=3
+10,Engenheiro Mecânico,Seleção Engenharia,"Indaiatuba, SP",https://www.indeed.com.br/rc/clk?jk=33fe2ada3a4c285a&from=vj&pos=top&spon=1
+9,Consultor de Analytics,"HAYS
+628 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=f02a41bb2ccc055a&from=vj&pos=top&spon=1
+8,Analista de Risco de Mercado Senior,C6 Bank,"São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=de819d22e2b1547f&from=vj&pos=top
+7,Analista de Gestão de Riscos Junior,Finaxis,"São Paulo, SP",https://www.indeed.com.br/cmp/Finaxis/jobs/Analista-Gest%C3%A3o-Riscos-Junior-3dc7ae87cc2b5666?vjs=3
+6,Analista de Monitoramento de Mercado Sr,"CCEE
+13 avaliações","São Paulo, SP",https://www.indeed.com.br/ver-emprego?jk=8db3922d200f068e&from=serp&vjs=3
+5,Analista de Controles Internos Jr.,"Stelo
+2 avaliações","Barueri, SP",https://www.indeed.com.br/rc/clk?jk=e8ef3ef963507df0&from=vj&pos=top
+4,Analista de Gestão de Mudanças em TI,"GMUD Tecnologia
+5 avaliações","Alphaville, SP",https://www.indeed.com.br/cmp/GMUD-TECNOLOGIA/jobs/Analista-Gest%C3%A3o-Mudan%C3%A7as-Ti-d3781db13686503e?vjs=3
+3,Estágio em Gestão de Riscos,Finaxis,"São Paulo, SP",https://www.indeed.com.br/cmp/Fianxis/jobs/Est%C3%A1gio-Gest%C3%A3o-Riscos-2e2329cd4bb42988?vjs=3
+2,CONSULTOR TECNICO ONCOLOGIA PL - ( GOIÂNIA/BRASÍLIA ),"Novartis
+2,810 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=8381a430a7f458e1&from=vj&pos=top
+1,Gerente de Novos Negócios Comerciais,"UnitedHealth Group
+14,071 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=274aec987a459b6c&from=vj&pos=top
+0,Assessor Sênior - Impostos Indiretos,"Ernst & Young OM
+5,751 avaliações","São Paulo, SP",https://www.indeed.com.br/rc/clk?jk=37e2ae518e96e227&from=vj&pos=top
