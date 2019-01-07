@@ -2,9 +2,12 @@ from selenium import webdriver
 import pandas as pd
 import time
 from datetime import date
-
-inputs = pd.read_excel("inputGERAL.xlsx",sheetname = "SHEET1")
-driver = webdriver.Chrome(executable_path=r"C:\Users\Lucas Neris\Documents\GitHub\Projeto-3---Raspagem-de-Vagas\chromedriver.exe")
+'''pwd = os.system("pwd")
+pwd
+local = pwd'''
+inputs = pd.read_excel("InputGERAL.xlsx")
+URL = str("C:\Users\Lucas Neris\Documents\GitHub\Projeto-3---Raspagem-de-Vagas")
+driver = webdriver.Chrome(executable_path='r' + str(URL) + '\chromedriver.exe')
 nome_arquivo = str('dados'+'-'+ str(date.today().day) +'-' + str(date.today().month) + '-' + str(date.today().year) +'.csv')
 
 
@@ -21,9 +24,9 @@ except:
     
 def indeed_links():
     for x in range(len(inputs)):
-        assuntos = inputs.ix[x].Assunto
+        assuntos = inputs.iloc[x].Assunto
         assuntos = assuntos.replace(" ","+")
-        cidades = inputs.ix[x].Cidade
+        cidades = inputs.iloc[x].Cidade
         cidades = cidades.replace(" ","+")
         time.sleep(5)
         driver.get("https://www.indeed.com.br/empregos?q=" + assuntos + "&l=" + cidades)
@@ -48,8 +51,7 @@ def indeed_links():
             print(informacao)
             tabela.loc[-1] = informacao
             tabela.index = tabela.index + 1
-        tabela.to_csv("site_dados.csv")
-        tabela.to_excel("site_dados.xlsx")
+            tabela.to_excel(nome_arquivo + ".xlsx")
     
     
 
@@ -89,6 +91,47 @@ def indeed_empresa_e_cidade():
 
 
 
+def vagas_com():
+    for x in range(len(inputs)):
+        assuntos = inputs.iloc[x].Assunto
+        assuntos = assuntos.replace(" ","-")
+        cidades = inputs.iloc[x].Cidade
+        cidades = cidades.replace(" ","-")
+        time.sleep(2)
+        driver.get('https://www.vagas.com.br/vagas-de-' + assuntos +'-'+ cidades + '?')
+        try:
+            driver.find_element_by_xpath("*//a[@class='btMaisVagas btn']").click()
+            driver.find_element_by_xpath("*//a[@class='btMaisVagas btn']").click()
+        except:
+            try: 
+                driver.find_element_by_xpath("*//a[@class='btMaisVagas btn']").click()
+            except: 
+                pass
+            
+
+        for z in driver.find_elements_by_xpath("//li[@class='vaga odd ']"):
+            informacao = [z.find_element_by_tag_name('a').get_attribute('title'),z.find_element_by_xpath("*//span[@class = 'emprVaga']").text,
+z.find_element_by_xpath("//footer/span[@class = 'vaga-local']").text,z.find_element_by_tag_name('a').get_attribute('href')]
+            print(informacao)
+            tabela.loc[-1] = informacao
+            tabela.index = tabela.index + 1
+        tabela.drop_duplicates(inplace = True)
+        tabela.to_excel(nome_arquivo + ".xlsx")
+            
+        
+        for z in driver.find_elements_by_xpath("//li[@class='vaga even ']"):
+            informacao = [z.find_element_by_tag_name('a').get_attribute('title'),z.find_element_by_xpath("*//span[@class = 'emprVaga']").text,
+z.find_element_by_xpath("//footer/span[@class = 'vaga-local']").text,z.find_element_by_tag_name('a').get_attribute('href')]
+            print(informacao)
+            tabela.loc[-1] = informacao
+            tabela.index = tabela.index + 1
+    tabela.drop_duplicates(inplace = True)
+    tabela.to_excel(nome_arquivo + ".xlsx")
+
+
+
+
+
+
 indeed_links()
-
-
+vagas_com()
